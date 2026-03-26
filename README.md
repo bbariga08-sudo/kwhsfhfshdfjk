@@ -47,3 +47,30 @@ Sekojiet šiem soļiem:
 3. Izvēlieties datumu no kalendāra.
 4. Nospiediet pogu **"Saglabāt"**.
 5. Jūs redzēsiet apstiprinājumu un jaunais atlikums tiks pārrēķināts.
+
+
+# 🐶 "Mīļās Mājas" – Dzīvnieku adopcijas lietotne
+
+## 📝 Apraksts
+Šī aplikācija palīdz savienot patversmes ar potenciālajiem saimniekiem. Lietotāji var apskatīt pieejamos dzīvniekus, uzzināt to stāstus un pieteikties adopcijai.
+
+## ⚙️ Uzstādīšana
+1. Noklonējiet repozitoriju: git clone [saite]
+2. Instalējiet nepieciešamās bibliotēkas: npm install
+3. Palaidiet lietotni: npm start
+
+## 🖥️ Lietošana
+Atveriet aplikāciju, izvēlieties dzīvnieka veidu (suns, kaķis) un spiediet uz attēla, lai redzētu aprakstu.
+Piemērs: Lietotājs atrod suni "Reksi", izlasa, ka viņš ir draudzīgs, un nospiež pogu "Pieteikties".
+
+## ✨ Funkcijas
+* Filtri – meklēšana pēc vecuma, šķirnes un atrašanās vietas.
+* Mīļākie – iespēja saglabāt dzīvniekus sarakstā vēlākai apskatei.
+* Čats – tieša saziņa ar patversmes darbiniekiem.
+
+## 📖 Instrukcija: Kā pieteikties adopcijai?
+1. Atveriet izvēlētā dzīvnieka profilu.
+2. Nospiediet pogu "Aizpildīt anketu".
+3. Ievadiet savu vārdu un tālruņa numuru.
+4. Aprakstiet savus dzīves apstākļus.
+5. Spiediet "Nosūtīt". Patversme ar jums sazināsies 2 dienu laikā.
